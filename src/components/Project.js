@@ -16,13 +16,6 @@ const Project = () =>{
         <Cart/>
         <Cart/>
         <Cart/>
-        <Cart/>
-        <Cart/>
-        <Cart/>
-        <Cart/>
-        <Cart/>
-        <Cart/>
-        <Cart/>
      </Carousel>
      </div>
      </div>
