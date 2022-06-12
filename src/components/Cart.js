@@ -19,7 +19,7 @@ const Cart = () =>{
             <p className="icon"><FaReact/></p>
             </div>
             <div className="visit">
-                <button><a href="" target="blank">Visit Project</a></button>
+                <button><a href="webdeveloperabishek.netlify.app" target="blank">Visit Project</a></button>
             </div>
     </div>
     </div>
