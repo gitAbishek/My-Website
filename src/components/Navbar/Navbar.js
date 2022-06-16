@@ -2,6 +2,7 @@ import { FaFacebook } from "react-icons/fa"
 import { FaGithub } from "react-icons/fa"
 import { FaLinkedinIn } from "react-icons/fa"
 import { NavLink } from "react-router-dom"
+import { Link } from "react-scroll"
 const Navbar = () =>{
     
     return(
